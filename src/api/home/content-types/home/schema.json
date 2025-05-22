@@ -19,7 +19,8 @@
     "blocks": {
       "type": "dynamiczone",
       "components": [
-        "blocks.landing-page"
+        "blocks.landing-page",
+        "blocks.alter-block"
       ]
     }
   }

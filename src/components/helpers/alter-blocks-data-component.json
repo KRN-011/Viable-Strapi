@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_helpers_alter_blocks_data_components",
+  "info": {
+    "displayName": "Alter Blocks Data Component"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
