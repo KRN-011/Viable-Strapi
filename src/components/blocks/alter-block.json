@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_blocks_alter_blocks",
+  "info": {
+    "displayName": "Alter Block",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "data_component": {
+      "type": "component",
+      "repeatable": true,
+      "component": "helpers.alter-blocks-data-component"
+    },
+    "heading": {
+      "type": "string"
+    },
+    "subheading": {
+      "type": "string"
+    }
+  }
+}
